@@ -8,6 +8,7 @@ router.get("/", (req, res) => {
   res.send("Get all student details ");
 });
 
+
 // @route POST api/profile
 // @desc Add new students
 // @access Private
