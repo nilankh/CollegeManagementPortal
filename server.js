@@ -1,7 +1,10 @@
-const c = require("config");
 const express = require("express");
+const connectDB = require('./config/db');
 
 const app = express();
+
+// Connect DataBase
+connectDB();
 
 app.get("/", (req, res) =>
   res.send({ msg: "Welcome to the College Management Portal" })

@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://nilank123:nilank123@collegemanagementportal.kzd6p.mongodb.net/<dbname>?retryWrites=true&w=majority"
+}
