@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://nilank123:nilank1234@collegemanagementportal.kzd6p.mongodb.net/<dbname>?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://nilank123:nilank123@collegemanagementportal.kzd6p.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
 }
